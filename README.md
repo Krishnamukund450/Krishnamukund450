@@ -1,60 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0c29,50:302b63,100:24243e&text=KRISHNA%20MUKUND&fontSize=65&fontColor=00FFF7&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%7C%20LLM%20Developer%20%7C%20Building%20Cool%20Stuff%20🚀&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=KRISHNA%20MUKUND&fontAlign=50&fontAlignY=40&color=0:ff0080,50:7928ca,100:2afadf&fontColor=ffffff&fontSize=65&animation=fadeIn&desc=AI%20Engineer%20%7C%20LLM%20Developer%20%7C%20Future%20Builder&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00FFF7&center=true&vCenter=true&width=1000&lines=⚡+Building+AI+Agents+and+LLM+Systems;🤖+Multi-Agent+Systems+Developer;🧠+Machine+Learning+Enthusiast;🚀+Creating+Production-Ready+AI;🔥+Python+%7C+LangGraph+%7C+FAISS+%7C+RAG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=34&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=⚡+WELCOME+TO+MY+CYBERSPACE;🤖+AI+%26+MULTI-AGENT+SYSTEMS;🧠+LLMs+%7C+RAG+%7C+LANGGRAPH;🚀+BUILDING+INTELLIGENT+SYSTEMS;🔥+MACHINE+LEARNING+ENGINEER+IN+PROGRESS"/>
 
 <br/>
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zv6p5l6k4v5&cover_image=true&theme=novatorem"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ3ZTRkM2Y0ZDA0Mzc2ZTA4M2I4YzU0YmY3YzVjNjY0MzY4YzRiNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
 
 </div>
 
 ---
 
+# 🌌 ENTER THE MATRIX
+
 <table>
 <tr>
 <td width="55%">
 
-# ⚡ WHO AM I?
+```bash
+> Initializing profile...
 
-```python
-class KrishnaMukund:
+Name        : Krishna Mukund
+Location    : Hyderabad, India
+Role        : AI/ML Engineer Aspirant
 
-    def __init__(self):
+Specialties :
+   ◉ Machine Learning
+   ◉ LLM Engineering
+   ◉ Multi-Agent Systems
+   ◉ NLP
+   ◉ Deep Learning
 
-        self.role = "AI/ML Engineer Aspirant"
+Current Tech Stack :
+   ◉ Python
+   ◉ LangGraph
+   ◉ FAISS
+   ◉ FastAPI
+   ◉ RAG Pipelines
 
-        self.stack = [
-            "Machine Learning",
-            "LLMs",
-            "LangGraph",
-            "RAG",
-            "FAISS",
-            "FastAPI"
-        ]
-
-        self.currently_building = [
-            "AI Agents",
-            "Real-Time AI Systems",
-            "Multi-Agent Workflows"
-        ]
-
-        self.learning = [
-            "Advanced ML",
-            "System Design",
-            "Scalable AI"
-        ]
-
-    def motto(self):
-        return "Code • Train • Deploy • Repeat 🚀"
+Status :
+   [██████████] Learning Everyday 🚀
 ```
 
 </td>
 
 <td width="45%">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%"/>
 
 </td>
 </tr>
@@ -62,45 +55,25 @@ class KrishnaMukund:
 
 ---
 
-# 🌌 CONNECT WITH ME
+# ⚔️ TECH STACK
 
 <div align="center">
 
-<a href="mailto:krishnamukund2003@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://github.com/krishnamukund450">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/krishna-mukund-parankusham-a20a30249">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-</div>
-
----
-
-# ⚔️ TECH ARSENAL
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,flask,mysql,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,mysql,git,github,linux,vscode"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-Pipeline-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-ff0080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-7928ca?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-2afadf?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🚀 PROJECT TERMINAL
 
 <div align="center">
 
@@ -108,40 +81,58 @@ class KrishnaMukund:
 <tr>
 <td width="33%">
 
-### 🤖 AI Operations Commander
+## 🤖 AI Operations Commander
 
-Autonomous multi-agent AI system with:
+```yaml
+Type: Multi-Agent AI
+Tech:
+  - LangGraph
+  - FAISS
+  - FastAPI
 
-✔ LangGraph workflows  
-✔ FAISS memory  
-✔ Real-time anomaly detection  
-✔ Intelligent planning systems  
-
-</td>
-
-<td width="33%">
-
-### 🧠 Suicide Detection AI
-
-NLP-based monitoring system:
-
-✔ Twitter API integration  
-✔ Sentiment analysis  
-✔ Risk classification  
-✔ Real-time processing  
+Features:
+  - Real-time monitoring
+  - Anomaly detection
+  - Adaptive memory
+```
 
 </td>
 
 <td width="33%">
 
-### 👁️ Face-to-BMI AI
+## 🧠 Suicide Detection AI
 
-Deep Learning health estimation:
+```yaml
+Type: NLP System
+Tech:
+  - Twitter API
+  - NLP
+  - ML
 
-✔ Facial analysis  
-✔ Contactless monitoring  
-✔ Privacy-preserving AI  
-✔ Computer Vision pipeline  
+Features:
+  - Risk analysis
+  - Sentiment detection
+  - Real-time alerts
+```
+
+</td>
+
+<td width="33%">
+
+## 👁️ Face-to-BMI
+
+```yaml
+Type: Deep Learning
+Tech:
+  - Computer Vision
+  - CNN
+  - AI
+
+Features:
+  - Facial analysis
+  - Contactless BMI
+  - Privacy-focused
+```
 
 </td>
 </tr>
@@ -151,39 +142,39 @@ Deep Learning health estimation:
 
 ---
 
-# 📊 GITHUB MATRIX
+# 📊 SYSTEM ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishnamukund450&show_icons=true&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishnamukund450&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamukund450&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamukund450&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+# 🔥 NEURAL NETWORK ACTIVITY
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=krishnamukund450&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=krishnamukund450&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌊 WAVE GRAPH
+# 🌊 QUANTUM CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnamukund450&custom_title=Krishna's%20Contribution%20Graph&bg_color=0D1117&color=00FFF7&line=00FFF7&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnamukund450&bg_color=0d1117&color=ff00ff&line=7928ca&point=2afadf&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 SNAKE EATING CONTRIBUTIONS
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -193,7 +184,7 @@ Deep Learning health estimation:
 
 ---
 
-# 🏆 ACHIEVEMENTS UNLOCKED
+# 🏆 ACHIEVEMENT VAULT
 
 <div align="center">
 
@@ -203,35 +194,45 @@ Deep Learning health estimation:
 
 ---
 
-# ⚡ CURRENT MISSION
+# 🌐 CONNECT TO MY NETWORK
+
+<div align="center">
+
+<a href="mailto:krishnamukund2003@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-ff0080?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/krishnamukund450">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/krishna-mukund-parankusham-a20a30249">
+<img src="https://img.shields.io/badge/LINKEDIN-2afadf?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ CURRENT OBJECTIVES
 
 <div align="center">
 
 ```diff
-+ Building intelligent AI agents
-+ Learning scalable ML systems
-+ Exploring LLM engineering
-+ Preparing for ML engineering roles
++ Master LLM Engineering
++ Build scalable AI systems
++ Create autonomous AI agents
++ Crack ML engineering roles
 ```
 
 </div>
 
 ---
 
-# ✨ RANDOM DEV QUOTE
-
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+# 🚀 SEE YOU IN THE FUTURE
 
-</div>
-
----
-
-<div align="center">
-
-# 🚀 BUILDING THE FUTURE WITH AI
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:24243e,50:302b63,100:0f0c29"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:2afadf,50:7928ca,100:ff0080"/>
 
 </div>
