@@ -1,123 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=KRISHNA%20MUKUND&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20LLM%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=250&section=header&text=KRISHNA%20MUKUND&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20LLM%20Developer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Intelligent+AI+Systems+⚡;Multi-Agent+Systems+Developer+🤖;LLMs+%7C+LangGraph+%7C+FAISS+%7C+RAG;FastAPI+%7C+Machine+Learning+%7C+NLP;Aspiring+Machine+Learning+Engineer+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Systems+⚡;Multi-Agent+AI+Developer+🤖;LangGraph+%7C+FAISS+%7C+RAG+%7C+LLMs;FastAPI+%7C+Machine+Learning+%7C+NLP;Future+ML+Engineer+🚀"/>
 
-<img src="https://komarev.com/ghpvc/?username=krishnamukund450&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<br/>
+
+<img src="https://img.shields.io/github/followers/krishnamukund450?style=for-the-badge&logo=github&color=00F5A0"/>
+<img src="https://img.shields.io/github/stars/krishnamukund450?style=for-the-badge&logo=github&color=00D9F5"/>
+<img src="https://komarev.com/ghpvc/?username=krishnamukund450&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# ⚡ ABOUT ME
+# 🌊 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-```python
-class KrishnaMukund:
+```yaml
+name: Krishna Mukund
+located_in: Hyderabad, India
 
-    def __init__(self):
-        self.role = "Aspiring AI/ML Engineer"
-        self.location = "Hyderabad, India"
-        self.languages = ["Python", "JavaScript"]
+current_role:
+  - AI/ML Engineer Aspirant
 
-        self.interests = [
-            "Machine Learning",
-            "LLMs",
-            "Multi-Agent Systems",
-            "Deep Learning",
-            "System Design"
-        ]
+interests:
+  - Machine Learning
+  - Deep Learning
+  - Multi-Agent Systems
+  - LLM Engineering
+  - NLP
 
-        self.current_focus = [
-            "LangGraph",
-            "FAISS",
-            "FastAPI",
-            "RAG Pipelines",
-            "Production AI Systems"
-        ]
+currently_learning:
+  - LangGraph
+  - RAG Pipelines
+  - System Design
+  - Production AI Systems
 
-    def life_motto(self):
-        return "Build AI that solves real-world problems 🚀"
+life_motto:
+  "Build AI that solves real-world problems 🚀"
 ```
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="mailto:krishnamukund2003@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="65"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="65"/>
 </a>
 
 <a href="https://github.com/krishnamukund450">
-<img src="https://skillicons.dev/icons?i=github" height="65"/>
+  <img src="https://skillicons.dev/icons?i=github" height="65"/>
 </a>
 
 <a href="https://www.linkedin.com/in/krishna-mukund-parankusham-a20a30249">
-<img src="https://skillicons.dev/icons?i=linkedin" height="65"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="65"/>
 </a>
 
 </div>
 
 ---
 
-# 🧠 TECH STACK
+# ⚒️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,javascript,html,css" />
-
-### AI / ML / LLM
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,flask,mysql,git,github,linux,vscode"/>
 
 </div>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🚀 Featured Projects
 
 <div align="center">
 
-| 🚀 Project | 🔥 Description |
+| 🌟 Project | 🚀 Tech |
 |---|---|
-| **AI Operations Commander** | Autonomous Multi-Agent AI System with anomaly detection, planning, and memory using LangGraph + FAISS |
-| **Suicide Detection in Twitter Streams** | NLP-based intelligent tweet monitoring system for detecting high-risk suicidal intent |
-| **Face-to-BMI Detection** | Deep Learning model for BMI estimation using facial image analysis |
+| AI Operations Commander | LangGraph, FAISS, FastAPI |
+| Suicide Detection in Twitter Data | NLP, ML, Twitter API |
+| Face-to-BMI Estimation | Deep Learning, Computer Vision |
 
 </div>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishnamukund450&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishnamukund450&show_icons=true&theme=algolia&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamukund450&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamukund450&layout=compact&theme=algolia&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=krishnamukund450&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img src="https://streak-stats.demolab.com?user=krishnamukund450&theme=algolia&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -127,11 +120,11 @@ class KrishnaMukund:
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🏆 Achievements
 
 <div align="center">
 
-🥇 Winner — College Gaming Contest  
+🥇 College Gaming Contest Winner  
 📜 Kaggle Intermediate ML Certified  
 🛡️ Cyber Security & UX Design Certified  
 
@@ -139,29 +132,21 @@ class KrishnaMukund:
 
 ---
 
-# ⚡ CURRENTLY LEARNING
+# 🌊 Wave Activity Graph
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Learning))
-    LLM Engineering
-    Multi-Agent Systems
-    RAG Pipelines
-    Advanced Machine Learning
-    Scalable AI Systems
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnamukund450&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# ✨ RANDOM DEV QUOTE
+# ✨ Random Dev Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </div>
 
@@ -169,8 +154,8 @@ mindmap
 
 <div align="center">
 
-## 🚀 BUILDING THE FUTURE WITH AI
+# 🚀 BUILDING THE FUTURE WITH AI
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9F5,100:00F5A0&height=150&section=footer"/>
 
 </div>
