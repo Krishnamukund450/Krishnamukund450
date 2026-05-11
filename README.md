@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRxbTQ4b2d1NXB3b2E3N3B0dW5jOTY1M2NtaXQ2dXFsOG9qYjRwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378BzHA5FwWFXVSg/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180px"/>
 
 # Krishna Mukund
 
